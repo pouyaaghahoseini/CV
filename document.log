@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99999 (TeX Live 2018/W32TeX) (preloaded format=xelatex 2018.9.29)  18 AUG 2019 20:05
+This is XeTeX, Version 3.14159265-2.6-0.99999 (TeX Live 2018/W32TeX) (preloaded format=xelatex 2018.9.29)  22 AUG 2019 12:56
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -300,7 +300,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 41--47
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 48--52
+Underfull \hbox (badness 10000) in paragraph at lines 48--53
 
  []
 
@@ -311,7 +311,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.62 ^^I^^I\end{rSubsection}
+l.67 ^^I^^I\end{rSubsection}
                             
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -323,23 +323,23 @@ File: se-ascii-print.def 2016/05/16 v1.11 stringenc: Printable ASCII characters
 
 ]
 [2]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 205.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 210.
  [3]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 205.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 210.
  (./document.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 205.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 205.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 210.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 210.
 Package rerunfilecheck Info: File `document.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 205.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 210.
  ) 
 Here is how much of TeX's memory you used:
  8794 strings out of 492970
  122159 string characters out of 6137298
- 211329 words of memory out of 5000000
+ 212329 words of memory out of 5000000
  12781 multiletter control sequences out of 15000+600000
  6787 words of font info for 30 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 30i,9n,37p,267b,452s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 30i,9n,37p,274b,476s stack positions out of 5000i,500n,10000p,200000b,80000s
 
 Output written on document.pdf (3 pages).
