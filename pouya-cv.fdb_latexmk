@@ -1,7 +1,7 @@
 # Fdb version 3
-["pdflatex"] 1617490368 "/Users/pouya/Documents/Github/cv/pouya-cv.tex" "/Users/pouya/Documents/Github/cv/pouya-cv.pdf" "pouya-cv" 1617490370
-  "/Users/pouya/Documents/Github/cv/pouya-cv.aux" 1617490369 693 e62c83cfda8a80ee18afc02c7afeacc4 ""
-  "/Users/pouya/Documents/Github/cv/pouya-cv.tex" 1617490368 13161 0dd839770feebcb28c2a38c1db91e7ca ""
+["pdflatex"] 1631583289 "/Users/pouya/Documents/Github/cv/pouya-cv.tex" "/Users/pouya/Documents/Github/cv/pouya-cv.pdf" "pouya-cv" 1631583290
+  "/Users/pouya/Documents/Github/cv/pouya-cv.aux" 1631583290 693 e62c83cfda8a80ee18afc02c7afeacc4 ""
+  "/Users/pouya/Documents/Github/cv/pouya-cv.tex" 1631583289 13227 4dd5c32cd97e93389905fe2cb25816a9 ""
   "/usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc" 1136849721 2971 def0b6c1f0b107b3b936def894055589 ""
   "/usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1136849721 2900 1537cc8184ad1792082cd229ecc269f4 ""
   "/usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/fontawesome/fontawesometwo.enc" 1463430686 2679 32dd8ae231bf4a0752b98f62dc097183 ""
@@ -66,7 +66,7 @@
   "/usr/local/texlive/2020/texmf-dist/tex/latex/bookmark/bkm-pdftex.def" 1575499854 8485 fbefe3fa46819bf195afeda33df424fb ""
   "/usr/local/texlive/2020/texmf-dist/tex/latex/bookmark/bookmark.sty" 1575499854 18590 51a481005a825fb76c38c1318a7d213d ""
   "/usr/local/texlive/2020/texmf-dist/tex/latex/etoolbox/etoolbox.sty" 1569190624 45259 743c52a37a6e5ed83cfe0e128b2da10d ""
-  "/usr/local/texlive/2020/texmf-dist/tex/latex/fontawesome/fontawesome.sty" 1463430686 2757 ee97743276dc242c78f33fd622e260ea ""
+  "/usr/local/texlive/2020/texmf-dist/tex/latex/fontawesome/fontawesome.sty" 1617550667 2785 4a02580282017536a7716e3784ee888e ""
   "/usr/local/texlive/2020/texmf-dist/tex/latex/fontawesome/fontawesomesymbols-generic.tex" 1465747999 33234 40b369fd6c8364bdcc88401c4c1db5bf ""
   "/usr/local/texlive/2020/texmf-dist/tex/latex/fontawesome/fontawesomesymbols-pdftex.tex" 1463430686 46429 f7ffa71c62c5257edd5542253d4cea15 ""
   "/usr/local/texlive/2020/texmf-dist/tex/latex/fontawesome/ufontawesometwo.fd" 1465747999 519 e730d6099b4b4ed4da396d7b545ddf49 ""
@@ -93,12 +93,12 @@
   "/usr/local/texlive/2020/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1586288239 4811913 0be9a7e86c70a26e5e3042966bcd7097 ""
   "/usr/local/texlive/2020/texmf-var/web2c/pdftex/pdflatex.fmt" 1586288259 2432462 fd0fa20e9a3cb5f8169fd0ba1c955158 ""
   "/usr/local/texlive/2020/texmf.cnf" 1586288231 577 d60164b4589a341208aff7a667fbbdcb ""
-  "pouya-cv.aux" 1617490369 693 e62c83cfda8a80ee18afc02c7afeacc4 "pdflatex"
-  "pouya-cv.tex" 1617490368 13161 0dd839770feebcb28c2a38c1db91e7ca ""
+  "pouya-cv.aux" 1631583290 693 e62c83cfda8a80ee18afc02c7afeacc4 "pdflatex"
+  "pouya-cv.tex" 1631583289 13227 4dd5c32cd97e93389905fe2cb25816a9 ""
   "resume.cls" 1617490273 4922 b0dc15adca08674a77a09d0408d24205 ""
   (generated)
-  "pouya-cv.pdf"
   "/Users/pouya/Documents/Github/cv/pouya-cv.pdf"
   "pouya-cv.log"
-  "pouya-cv.aux"
   "/Users/pouya/Documents/Github/cv/pouya-cv.log"
+  "pouya-cv.pdf"
+  "pouya-cv.aux"
