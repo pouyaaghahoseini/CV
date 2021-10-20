@@ -1,7 +1,7 @@
 # Fdb version 3
-["pdflatex"] 1631583289 "/Users/pouya/Documents/Github/cv/pouya-cv.tex" "/Users/pouya/Documents/Github/cv/pouya-cv.pdf" "pouya-cv" 1631583290
-  "/Users/pouya/Documents/Github/cv/pouya-cv.aux" 1631583290 693 e62c83cfda8a80ee18afc02c7afeacc4 ""
-  "/Users/pouya/Documents/Github/cv/pouya-cv.tex" 1631583289 13227 4dd5c32cd97e93389905fe2cb25816a9 ""
+["pdflatex"] 1634592186 "/Users/pouya/Documents/Github/cv/pouya-cv.tex" "/Users/pouya/Documents/Github/cv/pouya-cv.pdf" "pouya-cv" 1634592187
+  "/Users/pouya/Documents/Github/cv/pouya-cv.aux" 1634592187 693 e62c83cfda8a80ee18afc02c7afeacc4 ""
+  "/Users/pouya/Documents/Github/cv/pouya-cv.tex" 1634592186 13413 d78fcdfaeced1e7c3b243d200d18e897 ""
   "/usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc" 1136849721 2971 def0b6c1f0b107b3b936def894055589 ""
   "/usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1136849721 2900 1537cc8184ad1792082cd229ecc269f4 ""
   "/usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/fontawesome/fontawesometwo.enc" 1463430686 2679 32dd8ae231bf4a0752b98f62dc097183 ""
@@ -93,12 +93,12 @@
   "/usr/local/texlive/2020/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1586288239 4811913 0be9a7e86c70a26e5e3042966bcd7097 ""
   "/usr/local/texlive/2020/texmf-var/web2c/pdftex/pdflatex.fmt" 1586288259 2432462 fd0fa20e9a3cb5f8169fd0ba1c955158 ""
   "/usr/local/texlive/2020/texmf.cnf" 1586288231 577 d60164b4589a341208aff7a667fbbdcb ""
-  "pouya-cv.aux" 1631583290 693 e62c83cfda8a80ee18afc02c7afeacc4 "pdflatex"
-  "pouya-cv.tex" 1631583289 13227 4dd5c32cd97e93389905fe2cb25816a9 ""
+  "pouya-cv.aux" 1634592187 693 e62c83cfda8a80ee18afc02c7afeacc4 "pdflatex"
+  "pouya-cv.tex" 1634592186 13413 d78fcdfaeced1e7c3b243d200d18e897 ""
   "resume.cls" 1617490273 4922 b0dc15adca08674a77a09d0408d24205 ""
   (generated)
-  "/Users/pouya/Documents/Github/cv/pouya-cv.pdf"
-  "pouya-cv.log"
-  "/Users/pouya/Documents/Github/cv/pouya-cv.log"
-  "pouya-cv.pdf"
   "pouya-cv.aux"
+  "/Users/pouya/Documents/Github/cv/pouya-cv.log"
+  "pouya-cv.log"
+  "pouya-cv.pdf"
+  "/Users/pouya/Documents/Github/cv/pouya-cv.pdf"
